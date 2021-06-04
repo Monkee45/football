@@ -1,3 +1,6 @@
+This is a super-basic Ruby program that (behind-the-scenes) runs an epl-simulation
+    and outputs the results.
+    
 This project represents a football league.
 
 The league has teams
@@ -8,8 +11,5 @@ The teams must play each other throughout the season
 
 A league table will be maintained.
 
-Updated this file on my own laptop
-
-This is added on my laptop the 2nd time which now includes the line from GITHUB
-
-and now has a myfootball branch.
+To Run:
+    - $ ruby bin/epl.rb
